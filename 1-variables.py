@@ -8,16 +8,19 @@
 """ Basic Variable """
 one = 1
 print(one) 
-""" Output : 1 """
+""" Output: 1 """
 
 
 """	Boolean Variable """
 true_variable = True
 print(true_variable)
-""" Output : True """
+""" Output: True """
 
 
 """ String Variable """
+my_name = "Vinay Singh"
+print(my_name)
+""" Output: Vinay Singh """
 
 
 
