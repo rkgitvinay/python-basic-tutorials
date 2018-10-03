@@ -3,6 +3,7 @@
 """
    Lists are just like the arrays declared in other languages, in which you
    can store multiple values in a single varible.
+   In Python lists are written with square brackets.
    A single list can contain strings, integers, as well as objects
 """
 
